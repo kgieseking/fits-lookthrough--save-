@@ -1,0 +1,7 @@
+every time you make a change, run the following
+
+make
+./lookthrough filename.fits keyword
+
+filename.fits obviously just being the fits file you want to run lookthrough on
+keyword being either NHITS or NAXIS2 
